@@ -6,10 +6,10 @@
  *Description: [Assignment Description]
  */
  
-#format {
+format {
     font-family:Times;
 	font-size: 16px;
-	color: #FFFFFF;
+	color: #45B39D;
 }
 
 #photo-resize {
@@ -19,5 +19,5 @@
 }
 
 .table-border {
-    border: 1px solid #FFFFFF ;
+    border: 1px solid #000000 ;
 }
