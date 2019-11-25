@@ -6,18 +6,18 @@
  *Description: [Assignment Description]
  */
  
-format {
+#format {
     font-family:Times;
 	font-size: 16px;
-	color: #45B39D;
+	color: #FFFFFF;
 }
 
 #photo-resize {
-    style="border: 2px dashed; #0000GG
+    border: 2px dashed; #0000GG
 	max-width: 200px ;
 	max-height: 250px ;
 }
 
 .table-border {
-    border: 3px solid #000000 ;
+    border: 1px solid #000000;
 }
